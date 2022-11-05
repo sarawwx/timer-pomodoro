@@ -57,7 +57,7 @@ export const TaskInput = styled(BaseInput)`
     }
 `
 
-export const MinuteAmountInput = styled(BaseInput)`
+export const MinutesAmountInput = styled(BaseInput)`
     width: 4rem;
 `
 
@@ -88,7 +88,7 @@ export const Separator = styled.div`
     justify-content: center;
 `
 
-export const StartCountDownButton = styled.button`
+export const StartCountdownButton = styled.button`
     width: 100%;
     border: 0;
     padding: 1rem;
